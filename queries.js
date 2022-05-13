@@ -1,0 +1,1 @@
+exports.REGISTER_STUDENT = " SELECT *FROM  students WHERE email = ? "
